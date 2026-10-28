@@ -11,7 +11,7 @@ var telegram_channel_link = "t.me/mosharofafridi";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://chat.whatsapp.com/D5GElGX33X7IznjSugxAUK";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
