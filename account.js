@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "MOSHAROFAFRIDI";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = t.me/mosharofafridi"";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// FACEBOOK ACCOUNT LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var FACEBOOK_ACCOUNT_link = "https://www.facebook.com/share/1FMmytfKPW/";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// TIK TOK  LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var TIK TOK_link = "https://www.tiktok.com/@msharofafridi?_r=1&_t=ZS-9AuSKE7YL8m";
 
 // =======================================================
 // NOTIFICATION TEXT
