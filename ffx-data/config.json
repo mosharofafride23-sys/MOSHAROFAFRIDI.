@@ -16,7 +16,9 @@
       "url": ""
     }
   ],
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794230686921.jpg"
+  },
   "prod": null,
   "texts": {
     "dlTitle": "APK download",
